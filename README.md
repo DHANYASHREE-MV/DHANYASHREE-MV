@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanyashree M V</h1>
 <h3 align="center">Totally into Machine Learning!</h3>
-![Coding](https://www.economicshomeworkhelper.com/uploads/images/The-CPI-and-Its-Relevance-in-Your-Macroeconomic-Homework.webp)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanyashree-mv&label=Profile%20views&color=0e75b6&style=flat" alt="dhanyashree-mv" /> </p>
 
