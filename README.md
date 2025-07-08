@@ -103,7 +103,11 @@
 <img src="https://github.com/user-attachments/assets/1b009c2c-6e65-4b72-af28-b9fb6c7059da" alt="Badge 3" width="120" height="120">
 <img src="https://github.com/user-attachments/assets/1d047213-0f08-4b9b-a8b2-a5c962c41d14" alt="Badge 4" width="120" height="120">
 <img src="https://github.com/user-attachments/assets/8ebbd68f-119b-4d0b-b1c9-71fc0392f68d" alt="Badge 5" width="120" height="120">
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Achievements-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/dhanyashreemv-8189/achievements)
+## 🎓 Microsoft Learn Achievements
+
+Check out my learning progress and achievements on Microsoft Learn:  
+🔗 [View my Microsoft Learn profile](https://learn.microsoft.com/en-us/users/dhanyashreemv-8189/achievements)
+
 
 
 
